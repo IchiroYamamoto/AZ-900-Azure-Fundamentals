@@ -30,10 +30,6 @@ Es mas barato porque te permite:
 - **Plataforma como serivico (Sass)** - El proveedor de servicios en la nube administra las máquinas virtuales y los recursos de red, y el inquilino de nube implementa sus aplicaciones en el entorno de hospedaje administrado (Azure App Services).
 - **Software como servicio (SaaS)** - el proveedor de servicios en la nube administra todos los aspectos del entorno de la aplicación, como las máquinas virtuales, los recursos de red, el almacenamiento de datos y las aplicaciones (Office 365)
 
-![Azure%20AZ-900%2019d0214de4f14b8a9cccc8331f35296d/Untitled.png](Azure%20AZ-900%2019d0214de4f14b8a9cccc8331f35296d/Untitled.png)
-
-![Azure%20AZ-900%2019d0214de4f14b8a9cccc8331f35296d/Untitled%201.png](Azure%20AZ-900%2019d0214de4f14b8a9cccc8331f35296d/Untitled%201.png)
-
 ### Serverless
 
 En las aplicaciones sin servidor, el proveedor de servicios en la nube aprovisiona, escala y administra automáticamente la infraestructura necesaria para ejecutar el código.
@@ -109,8 +105,6 @@ Los grupos de recursos existen para ayudar a administrar y organizar los recurso
 ### Azure Resource Manager
 
 Proporciona una capa de administración que le permite crear, actualizar y eliminar recursos de la cuenta de Azure.
-
-![Azure%20AZ-900%2019d0214de4f14b8a9cccc8331f35296d/Untitled%202.png](Azure%20AZ-900%2019d0214de4f14b8a9cccc8331f35296d/Untitled%202.png)
 
 Todas las funcionalidades que están disponibles en Azure Portal también lo están a través de PowerShell, la CLI de Azure, las API REST y los SDK de cliente.
 
